@@ -361,6 +361,6 @@ Therefore, the model should be treated as an automated classification system rat
 
 **Tejvir Singh Grewal**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering,
 Thapar Institute of Engineering & Technology
 
